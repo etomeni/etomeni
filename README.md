@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sunday Etom Eni
 - 👀 I’m interested in learning new technology, advancing my skills and abilitiea. Am interested in meeting new people, especially tech entrepreneurs.
-- 🌱 I’m currently learning app development using ionic framework.
-- 💞️ I’m looking to collaborate with senior developers and other developers with the entrepreneurer spirit
+- 🌱 I’m open to work/collaborate on your project 
+- 💞️ I’m looking to collaborate with other developers, with the entrepreneurer spirit
 - 📫 How to reach me? Email::: sundaywht@gmail.com
 
 <!---
